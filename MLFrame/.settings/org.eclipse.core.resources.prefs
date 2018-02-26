@@ -1,2 +1,7 @@
 eclipse.preferences.version=1
-encoding//basic/function/__init__.py=utf8
+encoding//basic/base_func.py=utf8
+encoding//nn/base_classifier.py=utf8
+encoding//nn/base_estimator.py=utf8
+encoding//nn/base_regressor.py=utf8
+encoding//nn/dnn.py=utf8
+encoding//test/nn/dnn_test.py=utf8
